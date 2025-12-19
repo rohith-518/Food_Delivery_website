@@ -1,6 +1,6 @@
 # Food Delivery Website
 
-Welcome to the Food Delivery Website repository created by G.Vignesh! 🍽️
+Welcome to the Food Delivery Website repository created by Rohith Perisetti! 🍽️
 
 ## Description
 
